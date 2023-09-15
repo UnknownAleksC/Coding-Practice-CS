@@ -1,0 +1,15 @@
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\bin\Debug\net6.0\Pascal's Triangle.exe
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\bin\Debug\net6.0\Pascal's Triangle.deps.json
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\bin\Debug\net6.0\Pascal's Triangle.runtimeconfig.json
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\bin\Debug\net6.0\Pascal's Triangle.dll
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\bin\Debug\net6.0\Pascal's Triangle.pdb
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\Pascal's Triangle.csproj.AssemblyReference.cache
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\Pascal's Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\Pascal's Triangle.AssemblyInfoInputs.cache
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\Pascal's Triangle.AssemblyInfo.cs
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\Pascal's Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\Pascal's Triangle.dll
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\refint\Pascal's Triangle.dll
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\Pascal's Triangle.pdb
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\Pascal's Triangle.genruntimeconfig.cache
+C:\Users\ThatA\OneDrive\Dokumenter\Kode Prosjekter\Pascal's Triangle\Pascal's Triangle\obj\Debug\net6.0\ref\Pascal's Triangle.dll
